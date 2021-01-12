@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica, sans-serif;
+  padding-left: 10px;
+  line-height: 1.5;
+  color: #444;
+}
+
+b {
+  color: #232D4B;
+}
+
+hr {
+  height: 2px;
+  background-color: #efefef;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+a:visited {
+  color: #232D4B;
+}
+
+a {
+  color: #232D4B;
+  border-bottom: 3px solid #E57200;
+  text-decoration: none;
+}
