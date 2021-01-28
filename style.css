@@ -3,6 +3,7 @@ body {
   padding-left: 10px;
   line-height: 1.5;
   color: #444;
+  max-width: 600px;
 }
 
 b {
