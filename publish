@@ -1,0 +1,11 @@
+#!/bin/sh
+
+in=$(cat)
+title=$(echo "${in}" | head -n1)
+content=$(echo "${in}" | tail +3)
+filename="posts/$(echo "${title}" | tr '[A-Z]' '[a-z]' | tr ' ' '-').html"
+
+m4 -DTITLE="${title}" -DCONTENT="${content}" "_template.html" > "${filename}"
+echo "Wrote ${filename}"
+echo "Add to blog.html:"
+echo "<li><a href=\""${filename}\"">${title}</a></li>"
