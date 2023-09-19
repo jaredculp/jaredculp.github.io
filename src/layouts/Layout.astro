@@ -1,0 +1,35 @@
+---
+const { frontmatter } = Astro.props;
+---
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>{frontmatter.title}</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono" rel="stylesheet">
+
+    <style is:global>
+      body {
+        font-family: 'IBM Plex Mono', monospace;
+        line-height: 1.5;
+        max-width: 50em;
+        padding: 1em;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        line-height: 1.1;
+      }
+
+      a {
+        color: green;
+      }
+    </style>
+	</head>
+	<body>
+    {frontmatter.title !== "culp.dev" && <a href="/">Home</a>}
+    <slot />
+	</body>
+</html>
