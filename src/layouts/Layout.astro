@@ -13,6 +13,7 @@ const { frontmatter } = Astro.props;
 
     <style is:global>
       body {
+        background-color: honeydew;
         font-family: sans-serif;
         font-weight: 300;
         line-height: 1.5;
@@ -28,13 +29,16 @@ const { frontmatter } = Astro.props;
       }
 
       a {
+        text-decoration: none;
+      }
+
+      a:not(.social) {
         background-color: lightgreen;
         border-radius: 5px;
         color: darkgreen;
         font-family: 'IBM Plex Mono', monospace;
         font-weight: 400;
         padding: 2px 4px;
-        text-decoration: none;
       }
     </style>
 	</head>
