@@ -5,6 +5,8 @@ title: Bookshelf
 
 # Bookshelf
 
+**Currently Reading**: "Misery" by Stephen King
+
 **Favorite Book**: Catch-22
 
 - Atwood, Margaret - "The Handmaid's Tale"
@@ -82,6 +84,7 @@ title: Bookshelf
 - Vonnegut, Kurt - "Deadeye Dick"
 - Vonnegut, Kurt - "God Bless You Mr. Rosewater"
 - Vonnegut, Kurt - "Mother Night"
+- Vonnegut, Kurt - "Player Piano"
 - Vonnegut, Kurt - "Slapstick"
 - Vonnegut, Kurt - "Slaughterhouse-Five"
 - Vonnegut, Kurt - "The Sirens of Titan"
