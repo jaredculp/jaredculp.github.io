@@ -80,5 +80,6 @@ title: Concerts
 - 2022-06-03: Lake Street Dive - Philadelphia, PA
 - 2022-06-16: Mondo Cozmo - Warminster, PA
 - 2022-07-14: Maren Morris - Philadelphia, PA
-- 2023-07-29: Jordan Davis - Philadelphia, PA
 - 2023-07-29: Luke Combs - Philadelphia, PA
+- 2023-10-05: Jordan Davis - Philadelphia, PA
+
