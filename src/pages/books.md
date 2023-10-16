@@ -5,7 +5,7 @@ title: Bookshelf
 
 # Bookshelf
 
-**Currently Reading**: "Misery" by Stephen King
+**Currently Reading**: "The Trap" by Catherine Ryan Howard
 
 **Favorite Book**: Catch-22
 
@@ -44,6 +44,7 @@ title: Bookshelf
 - Johnson, Steven - "Everything Bad Is Good For You"
 - Kafka, Franz - "The Trial"
 - Kendi, Ibram X. - "How To Be An Antiracist"
+- King, Stephen - "Misery"
 - Larsson, Stieg - "The Girl Who Kicked The Hornets' Nest"
 - Larsson, Stieg - "The Girl Who Played With Fire"
 - Larsson, Stieg - "The Girl With The Dragon Tattoo"
