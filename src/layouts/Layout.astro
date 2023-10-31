@@ -9,11 +9,11 @@ const { frontmatter } = Astro.props;
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono" rel="stylesheet">
 
     <style is:global>
       body {
-        background-color: honeydew;
+        background-color: #353535;
+        color: #fffaee;
         font-family: sans-serif;
         font-weight: 300;
         line-height: 1.5;
@@ -23,8 +23,7 @@ const { frontmatter } = Astro.props;
       }
 
       h1, h2, h3, h4, h5, h6 {
-        color: darkgreen;
-        font-family: 'IBM Plex Mono', monospace;
+        color: #d1f1b8;
         line-height: 1.1;
       }
 
@@ -33,10 +32,10 @@ const { frontmatter } = Astro.props;
       }
 
       a:not(.social) {
-        background-color: lightgreen;
+        background-color: #d1f1b8;
         border-radius: 5px;
-        color: darkgreen;
-        font-family: 'IBM Plex Mono', monospace;
+        color: #353535;
+        font-family: monospace;
         font-weight: 400;
         padding: 2px 4px;
       }
