@@ -5,7 +5,7 @@ title: Bookshelf
 
 # Bookshelf
 
-**Currently Reading**: "The Trap" by Catherine Ryan Howard
+**Currently Reading**: "East of Eden" - John Steinbeck
 
 **Favorite Book**: Catch-22
 
@@ -40,6 +40,7 @@ title: Bookshelf
 - Hannah, Kristin - "The Nightingale"
 - Heller, Joseph - "Catch-22"
 - Herbert, Frank - "Dune"
+- Howard, Catherine Ryan - "The Trap"
 - Huxley, Aldous - "Brave New World"
 - Johnson, Steven - "Everything Bad Is Good For You"
 - Kafka, Franz - "The Trial"
