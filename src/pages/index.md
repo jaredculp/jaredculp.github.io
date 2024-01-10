@@ -5,7 +5,7 @@ title: culp.dev
 
 # Hi, I'm Jared. 👋🏻
 
-I go to [concerts](./concerts), I read [books](./books), and sometimes, I [run](https://www.strava.com/athletes/29877893).
+I go to [concerts](./concerts), I read [books](https://app.thestorygraph.com/profile/jaredculp), and sometimes, I [run](https://www.strava.com/athletes/29877893).
 I root for the Eagles, Sixers, Phillies, and my alma mater: UVA.
 
 
