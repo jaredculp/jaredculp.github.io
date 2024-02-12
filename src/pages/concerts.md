@@ -44,6 +44,8 @@ title: Concerts
 1. 2022-07-16 - Camden, NJ
 1. 2023-07-21 - Camden, NJ
 1. 2023-07-22 - Camden, NJ
+1. 2024-07-19 - Camden, NJ
+1. 2024-07-20 - Camden, NJ
 
 ## Everything Else
 
@@ -82,4 +84,5 @@ title: Concerts
 - 2022-07-14: Maren Morris - Philadelphia, PA
 - 2023-07-29: Luke Combs - Philadelphia, PA
 - 2023-10-05: Jordan Davis - Philadelphia, PA
-
+- 2024-06-06: Chris Stapleton - Camden, NJ
+- 2024-06-28: Goose - Philadelphia, PA
