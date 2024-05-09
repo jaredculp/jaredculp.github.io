@@ -3,25 +3,26 @@ layout: ../layouts/Layout.astro
 title: culp.dev
 ---
 
-# Hi, I'm Jared. 👋🏻
+# Yo, I'm Jared. 👋🏻
 
-I go to [concerts](./concerts), I read [books](https://app.thestorygraph.com/profile/jaredculp), and sometimes, I [run](https://www.strava.com/athletes/29877893).
-I root for the Eagles, Sixers, Phillies, and my alma mater: UVA.
+Welcome to my cozy little space on the internet.
 
+I go to [concerts](./concerts).
+I read [books](https://app.thestorygraph.com/profile/jaredculp).
+I [run](https://www.strava.com/athletes/29877893).
+I root for the Eagles <span>🦅</span> and UVA <span>⚔️</span>.
+I also enjoy:
+rubik's cubes,
+[chess](https://lichess.org/@/jaredculp),
+guitar,
+golf,
+and meditation.
 
-Some of my other esoteric hobbies include:
-- Rubik's cubes
-- [Chess](https://lichess.org/@/jaredculp)
-- Guitar
-- Golf
-- Meditation
+I'm helping make mental healthcare more affordable and accessible [@grow-therapy](https://growtherapy.com) <span>🌱</span>.
+Previously, I was a software engineer [@opower](./opower) <span>💡</span>, where we used behavioral, data, and computer sciences to drive energy efficiency.
 
+---
 
-I'm helping make mental healthcare more affordable and accessible [@grow-therapy](https://growtherapy.com) 🌱.
-Previously, I was a software engineer [@opower](./opower) 💡, where we used behavioral, data, and computer sciences to drive energy efficiency.
-
-### Contact
-
-* [instagram](https://instagram.com/jaredculp)
-* [linkedin](https://linkedin.com/in/jared-culp)
-* [github](https://github.com/jaredculp)
+[github](https://github.com/jaredculp)
+[instagram](https://instagram.com/jaredculp)
+[linkedin](https://linkedin.com/in/jared-culp)
