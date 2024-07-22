@@ -2,6 +2,7 @@
 layout: ../layouts/Layout.astro
 title: Concerts
 ---
+
 # Concerts
 
 ## DMB
@@ -85,4 +86,6 @@ title: Concerts
 - 2023-07-29: Luke Combs - Philadelphia, PA
 - 2023-10-05: Jordan Davis - Philadelphia, PA
 - 2024-06-06: Chris Stapleton - Camden, NJ
+- 2024-06-10: Roger Daltrey - Glenside, PA
 - 2024-06-28: Goose - Philadelphia, PA
+- 2024-07-26: Kameron Marlowe - Bensalem, PA
