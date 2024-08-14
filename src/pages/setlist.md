@@ -3,39 +3,40 @@ layout: ../layouts/Layout.astro
 title: DMB Setlist Generator
 ---
 
-<style>
-  input {
-    width: 2rem;
-  }
-
-</style>
-
-<pre id="setlist"></pre>
-
-<form>
-  <a id="refresh">Refresh</a>
-  <a id="copy">Copy</a>
-  <p>
-    <input type="number" id="setlistLength" value="20"/>
-    <label>Setlist length</label>
-  </p>
-  <p>
-    <input type="number" id="encoreLength" value="3"/>
-    <label>Encore length</label>
-  </p>
-  <p>
-    <input type="checkbox" id="teases" />
-    <label>Teases</label>
-  </p>
-  <p>
-    <input type="checkbox" id="partials" />
-    <label>Partials</label>
-  </p>
-  <p>
-    <input type="checkbox" id="segues" />
-    <label>Segues</label>
-  </p>
-</form>
+<div>
+  <pre id="setlist"></pre>
+  <hr />
+  <form>
+    <table>
+      <tr>
+        <td><label>Setlist length</label></td>
+        <td><input type="range" min="5" max="25" id="setlistLength" value="20"/></td>
+      </tr>
+      <tr>
+        <td><label>Encore length</label></td>
+        <td><input type="range" min="1" max="4" id="encoreLength" value="3"/></td>
+      </tr>
+      <tr>
+        <td><label>Teases</label></td>
+        <td><input type="checkbox" id="teases" /></td>
+      </tr>
+      <tr>
+        <td><label>Partials</label></td>
+        <td><input type="checkbox" id="partials" /></td>
+      </tr>
+      <tr>
+        <td><label>Segues</label></td>
+        <td><input type="checkbox" id="segues" /></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <a id="refresh">Refresh</a>
+          <a id="copy">Copy</a>
+        </td>
+      </tr>
+    </table>
+  </form>
+</div>
 
 <script>
 const songs = {

@@ -8,27 +8,67 @@ const { frontmatter } = Astro.props;
 		<title>{frontmatter.title}</title>
 
     <style is:global>
+      @font-face {
+        font-family: 'BerkeleyMono';
+        src: url('/fonts/BerkeleyMono-Bold.woff2') format('woff2');
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      @font-face {
+        font-family: 'BerkeleyMono';
+        src: url('/fonts/BerkeleyMono-BoldItalic.woff2') format('woff2');
+        font-weight: bold;
+        font-style: italic;
+      }
+
+      @font-face {
+        font-family: 'BerkeleyMono';
+        src: url('/fonts/BerkeleyMono-Italic.woff2') format('woff2');
+        font-weight: normal;
+        font-style: italic;
+      }
+
+      @font-face {
+        font-family: 'BerkeleyMono';
+        src: url('/fonts/BerkeleyMono-Regular.woff2') format('woff2');
+        font-weight: normal;
+        font-style: normal;
+      }
+
+      :root {
+        --primary-color: #353535;
+        --secondary-color: #FFFAEE;
+      }
+
       body {
-        background-color: #FFFAEE;
-        color: #353535;
-        font-family: monospace;
-        font-weight: 300;
+        color: var(--primary-color);
+        background-color: var(--secondary-color);
+        font-family: 'BerkeleyMono', monospace;
         line-height: 2;
         max-width: 60em;
         padding: 1em;
       }
 
+      pre {
+        font-family: 'BerkeleyMono', monospace;
+        line-height: 1;
+      }
+
       h1, h2, h3, h4, h5, h6, span {
-        font-family: sans-serif;
         line-height: 1.1;
       }
 
       a {
         text-decoration: none;
-        background-color: #EDE8FF;
-        border-radius: 5px;
-        font-weight: 600;
+        color: var(--secondary-color);
+        background-color: var(--primary-color);
+        font-weight: bold;
         padding: 2px 4px;
+      }
+
+      hr {
+        border: 1px solid var(--primary-color);
       }
     </style>
 	</head>
