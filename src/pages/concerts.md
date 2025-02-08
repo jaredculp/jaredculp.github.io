@@ -89,3 +89,4 @@ title: Concerts
 1. 2024-06-10: Roger Daltrey - Glenside, PA
 1. 2024-06-28: Goose - Philadelphia, PA
 1. 2024-07-26: Kameron Marlowe - Bensalem, PA
+1. 2025-02-07: Cole Swindell - Bensalem, PA
